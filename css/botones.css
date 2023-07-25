@@ -1,0 +1,22 @@
+.contenedor-botones{
+    display: flex;
+    height: 30vh;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.contenedor-botones ul li{
+    width: 180px;
+    height: 40px;
+    margin-top: 20px;
+    background: #F9F871;
+    border: 2px solid black;
+    border-radius: 2px;
+    box-shadow: -4px 4px 4px 0px;
+    color: #312606;
+    text-align: center;
+    align-items: center;
+}
