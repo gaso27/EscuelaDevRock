@@ -20,3 +20,11 @@
     text-align: center;
     align-items: center;
 }
+
+.contenedor-botones ul li:hover{
+    background: #266313;
+    border: 2px solid black;
+    border-radius: 2px;
+    box-shadow: -9px 6px 4px 0px;
+    transform: translateY(-3px) scale(1.05);
+}
