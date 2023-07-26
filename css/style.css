@@ -43,3 +43,18 @@ ul {
     margin: 0;
     padding: 0;
 }
+
+.centrado {
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 40%;
+    background-size: 100% auto;
+    border: 1px solid #312606;
+    box-shadow: -1px 5px 4px 0px;
+    margin: 0 auto;
+    padding: 0 auto;
+    display: block;
+    margin-top: 3vh;
+}
