@@ -1,2 +1,2 @@
-# EscuelaDevRock
+# LinkTree
 primer desafio winterhack
